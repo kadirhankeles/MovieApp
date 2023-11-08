@@ -175,23 +175,9 @@ class DetailViewController: UIViewController {
         super.viewDidLoad()
         
         viewModel.dataTransfer()
-        configure()
         setupUI()
     }
-    
-    private func configure() {
-        if let navigationBar = navigationController?.navigationBar {
-            if #available(iOS 15, *) {
-                let appearance = UINavigationBarAppearance()
-                appearance.configureWithTransparentBackground()
-                appearance.backgroundColor = UIColor.black.withAlphaComponent(0.3)
-                navigationBar.scrollEdgeAppearance = appearance
-                navigationBar.standardAppearance = appearance
-                navigationBar.compactAppearance = appearance
-            }
-        }
-    }
-    
+
     private func setupUI() {
         view.backgroundColor = .black
         navigationController?.navigationBar.tintColor = .systemYellow

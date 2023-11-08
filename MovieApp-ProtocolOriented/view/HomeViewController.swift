@@ -61,13 +61,6 @@ class HomeViewController: UIViewController {
         setupUI()
     }
     
-    override func viewWillAppear(_ animated: Bool) {
-        super.viewWillAppear(animated)
-        navigationController?.navigationBar.titleTextAttributes = [NSAttributedString.Key.foregroundColor : UIColor.systemYellow, NSAttributedString.Key.font: UIFont(name: "HelveticaNeue-Bold", size: 17)!]
-        print("çalıştı")
-    }
-
-    
     private func configure() {
         searchMovieBar.delegate = self
         moviesTableView.dataSource = self
