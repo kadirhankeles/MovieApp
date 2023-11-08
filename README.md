@@ -20,7 +20,4 @@ It is the Film application, which is the individual graduation project of the iO
 | Main Screen | Search Screen | Search Screen| Detail Screen|
 |--|--|--|--|
 |<img src="https://github.com/kadirhankeles/MovieApp/assets/44638560/0f657e91-0165-4988-9977-a98c33145cd2" alt="ezgif com-resize" width="200" height="400"> |<img src="https://github.com/kadirhankeles/MovieApp/assets/44638560/d914229f-1000-4323-965a-4903473a1051" width="200" height="400">|<img src="https://github.com/kadirhankeles/MovieApp/assets/44638560/8a6a52a7-c94c-40ea-8e21-df2f3e245005" width="200" height="400">| <img src="https://github.com/kadirhankeles/MovieApp/assets/44638560/b3353d7a-1fa1-4b32-beab-dfd0f8b81556" alt="ezgif com-resize" width="200" height="400">|
-![Ekran Resmi 2023-11-08 15 51 55](https://github.com/kadirhankeles/MovieApp/assets/44638560/0f657e91-0165-4988-9977-a98c33145cd2)
-![Ekran Resmi 2023-11-08 15 40 11](https://github.com/kadirhankeles/MovieApp/assets/44638560/d914229f-1000-4323-965a-4903473a1051)
-![Ekran Resmi 2023-11-08 16 08 10](https://github.com/kadirhankeles/MovieApp/assets/44638560/8a6a52a7-c94c-40ea-8e21-df2f3e245005)
-![Ekran Resmi 2023-11-08 15 40 21](https://github.com/kadirhankeles/MovieApp/assets/44638560/b3353d7a-1fa1-4b32-beab-dfd0f8b81556)
+
